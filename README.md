@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm system analyst (syslyst).
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dsavich">
@@ -12,6 +12,15 @@
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=zeldpol&style=flat-square&color=blue" alt=""/>
 </div>
+
+I help:
+* Systems to be predictable and understandable;
+* Developers enjoy the code, not the communication with the business;
+* QA understand the correct behavior of the system;
+* Designers to be aware of system constraints.
+
+### Welcome to the club, buddy!
+Here are my pet projects, learning cool stuff, trying to imagine myself as a developer. 
 
 <!--
 **zeldpol/zeldpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
