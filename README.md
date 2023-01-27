@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeldpol&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **zeldpol/zeldpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
